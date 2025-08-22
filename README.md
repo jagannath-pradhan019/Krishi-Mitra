@@ -1,6 +1,9 @@
 # Krishi Mitra: Plant Leaf Disease Detection
 
-![Krishi Mitra Logo](logo.jpg)
+<p align="center">
+  <img src="Screenshots/logo.png" width="300" />
+</p>
+
 
 **Krishi Mitra** is an AI-powered web application for rapid detection of plant leaf diseases from images, with actionable guidance for crop management. It leverages deep learning and a local LLM (large language model) for natural language treatment advice.
 
@@ -140,9 +143,34 @@ Ensure all Python libraries and model weights are correctly installed.
 
 ## Screenshot
 
-![App Logo](logo.jpg)
+<p align="center">
+  <img src="Screenshots/Screenshot_1.png" width="700" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="Screenshots/Screenshot_2.png" width="700" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="Screenshots/Screenshot_3.png" width="700" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="Screenshots/Screenshot_4.png" width="700" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="Screenshots/Screenshot_5.png" width="700" />
+</p>
+<p align="center" style="margin-top: 20px;">
+  <img src="Screenshots/Screenshot_6.png" width="700" />
+</p>
 
 ---
+
+## Thank You!
+
+Thank you for exploring **Krishi Mitra**!  
+We hope this tool empowers you to protect your crops effectively and contribute to sustainable agriculture.  
+Your feedback and contributions are always welcome to help us grow and improve—together we can make farming smarter and healthier!
+
+Happy farming! 🌱🌿🚜
 
 
 
